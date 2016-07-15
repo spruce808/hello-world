@@ -1,2 +1,3 @@
 # hello-world
-Short description (testing)
+
+This is a journey into sound
