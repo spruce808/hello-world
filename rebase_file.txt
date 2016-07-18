@@ -1,0 +1,16 @@
+ Volume in drive C is OS
+ Volume Serial Number is 66E7-A55D
+
+ Directory of C:\Users\phall\OneDrive\workspace\hello-world
+
+18/07/2016  14:33    <DIR>          .
+18/07/2016  14:33    <DIR>          ..
+18/07/2016  14:15                88 another_file.txt
+15/07/2016  18:56                63 chips.txt
+18/07/2016  14:15                26 hotfix.txt
+15/07/2016  17:29                47 README.md
+18/07/2016  14:33                26 rebase_file.txt
+15/07/2016  18:56                57 sausages.txt
+18/07/2016  14:28                21 stupid.txt
+               7 File(s)            328 bytes
+               2 Dir(s)  115,287,642,112 bytes free
